@@ -3,7 +3,7 @@ name: libxui
 version: 0.1.0-a.0.z
 language: c++
 project: xui
-summary: xui C++ library
+summary: Menu interface for IW4x.
 license: other: GPL-3.0-only with IW4x Linking Exception 1.1
 description-file: README.md
 url: https://example.org/xui
