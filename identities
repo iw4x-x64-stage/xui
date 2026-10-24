@@ -1,0 +1,9 @@
+# The identity register. It lists each contributor once, with the
+# preferred name and email, the other identities found in the revision
+# history (alias), and how the contributor is noted in AUTHORS (none, name,
+# or email). The AUTHORS and .mailmap files are generated from it.
+#
+: 1
+name: William Roy
+email: wroy@proton.me
+authors: name
